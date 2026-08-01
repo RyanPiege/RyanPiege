@@ -1,118 +1,273 @@
+<!-- ===================================================== -->
+<!--                  RYAN LOBATO README                    -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-# Ryan Lobato
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:004466,50:00A3B3,75:00E5FF,100:66FCF1&text=Ryan%20Lobato&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn"/>
 
-### Software Engineer • Data Engineer • Process Automation
+# Software Engineer • Data Engineer • Process Automation
 
-Building scalable software, data platforms and automation solutions for real-world business challenges.
+### Building scalable software, enterprise systems and modern data platforms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/RyanPiege)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ryan%20Piege)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:Ryanpiege@proton.me)
+<p align="center">
+
+<a href="https://github.com/RyanPiege">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/Ryan%20Piege">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Ryanpiege@proton.me">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineering;Data+Engineering;Process+Automation;Industrial+Systems;Building+Solutions+That+Create+Business+Value"/>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=RyanPiege&style=for-the-badge&color=00C2FF)
 
 </div>
 
 ---
 
-## 👨‍💻 About
+# 👋 About Me
 
-Software Engineer focused on **Full Stack Development**, **Data Engineering** and **Process Automation**.
+I'm a **Software Engineer** specialized in developing enterprise software, modern data platforms and automation solutions.
 
-I develop enterprise applications, ETL pipelines, REST APIs and automation solutions that improve business efficiency and transform data into valuable insights.
+My work combines **Software Engineering**, **Data Engineering** and **Business Process Automation** to build scalable applications, integrate enterprise systems and transform data into strategic business assets.
 
-Outside work, I enjoy embedded systems, electronics and hardware development.
+I enjoy working across the complete technology stack, from backend development and APIs to ETL pipelines, dashboards and enterprise platforms.
 
----
-
-## 🚀 Core Expertise
-
-- Full Stack Development
-- Data Engineering
-- ETL Pipelines
-- REST APIs
-- Process Automation
-- Business Intelligence
-- SAP ERP Integration
-- Industrial Software
+Outside my professional career, I dedicate my time to studying **embedded systems, electronics, industrial hardware and high-performance computing**.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 What I Do
 
-**Languages**
+<table>
 
-Python • PHP • JavaScript • SQL
+<tr>
 
-**Data**
+<td width="33%" align="center">
 
-BigQuery • ETL • Pandas • NumPy • Power BI • DAX • Power Query • Alteryx
+## 💻
 
-**Automation**
+### Software
 
-Selenium • Playwright • OpenPyXL • VBScript • Power Automate
+Enterprise Applications
 
-**Enterprise**
+REST APIs
 
-SAP ERP • SharePoint • CRM • ERP
+Backend Development
 
-**Databases**
+System Integration
 
-MySQL • PostgreSQL • SQLite
+CRM & ERP
 
-**Cloud**
+</td>
 
-Google Cloud Platform
+<td width="33%" align="center">
 
-**Tools**
+## 📊
 
-Git • VS Code
+### Data
+
+ETL Pipelines
+
+BigQuery
+
+SQL
+
+Data Modeling
+
+Business Intelligence
+
+</td>
+
+<td width="33%" align="center">
+
+## ⚙
+
+### Automation
+
+Python
+
+Selenium
+
+Playwright
+
+Power Automate
+
+SAP Automation
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🔬 Hardware Lab
+# 🏆 Core Expertise
 
-- Arduino
-- ESP32
-- Raspberry Pi
-- Embedded Systems
-- PCB Design
-- Electronics
-- Reverse Engineering
+<div align="center">
 
----
+| Area | Technologies |
+|------|--------------|
+| 💻 Software Engineering | PHP • JavaScript • REST APIs • MySQL • System Integration |
+| 📊 Data Engineering | ETL • SQL • BigQuery • Data Modeling • Data Warehousing |
+| 📈 Business Intelligence | Power BI • Power Query • DAX • KPI Monitoring • RCA |
+| ⚙ Process Automation | Python • Selenium • Playwright • OpenPyXL • VBScript |
+| ☁ Cloud | Google Cloud Platform • BigQuery |
+| 🏭 Enterprise Systems | SAP ERP • SharePoint • CRM • ERP |
+| 🔬 Hardware | Arduino • ESP32 • Raspberry Pi • PCB Design |
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanPiege&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPiege&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 📚 Currently Learning
+# 🧰 Technology Ecosystem
 
-- Artificial Intelligence Engineering
-- Large Language Models (LLMs)
-- Distributed Systems
-- Software Architecture
-- Embedded Systems
+<div align="center">
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=python,php,javascript,mysql,html,css"/>
+
+<br><br>
+
+## Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<br><br>
+
+## Hardware
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+
+</div>
+
+---
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏢 Enterprise CRM | Corporate management platform with CRM, ERP, dashboards and REST APIs. | PHP • MySQL • REST API |
+| 📊 ETL Pipeline | Automated SAP ERP data pipeline integrated with BigQuery and Power BI. | Python • BigQuery • ETL |
+| 🤖 Process Automation | Enterprise automation using Python, Selenium and Playwright. | Python • Selenium |
+| 🖥 VRX Platform | Personal hardware platform focused on embedded systems and HPC. | PCB • Embedded • IoT |
+
+</div>
 
 ---
 
-## 🤝 Connect
+# 📈 Current Focus
 
-- 💼 LinkedIn: https://linkedin.com/in/RyanPiege
-- 📧 Email: Ryanpiege@proton.me
-- 💻 GitHub: https://github.com/RyanPiege
+<div align="center">
+
+| Software | Data | Hardware |
+|-----------|------|----------|
+| Enterprise Systems | Data Engineering | Embedded Systems |
+| REST APIs | ETL Pipelines | PCB Design |
+| Backend Development | BigQuery | Raspberry Pi |
+| System Integration | Business Intelligence | Electronics |
+| Software Architecture | Analytics | Industrial Automation |
+
+</div>
+
+---
+
+# ⚡ Technical Highlights
+
+```text
+✔ Enterprise Software Development
+
+✔ Data Engineering
+
+✔ Process Automation
+
+✔ REST API Development
+
+✔ Business Intelligence
+
+✔ SAP ERP Integration
+
+✔ Industrial Systems
+
+✔ Embedded Hardware Projects
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RyanPiege&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPiege&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-**Software • Data • Automation • Hardware**
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RyanPiege&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanPiege&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanPiege&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RyanPiege&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🧠 Engineering Philosophy
+
+> Build software that solves problems.
+>
+> Design data pipelines that scale.
+>
+> Automate repetitive work.
+>
+> Create technology that delivers measurable business value.
+
+---
+
+<div align="center">
+
+## 💡 "Software, Data and Hardware working together."
 
 </div>
