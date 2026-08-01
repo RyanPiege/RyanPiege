@@ -2,7 +2,7 @@
 
 # Ryan Lobato
 
-### Full Stack Developer • Data Engineer • Process Automation
+### Data Engineer • Process Automation • Full Stack Developer
 
 <p>
 Building scalable software, enterprise systems and data solutions that automate processes and create business value.
@@ -216,44 +216,6 @@ In my spare time, I enjoy learning and experimenting with:
 - Embedded Systems
 - Electronics
 - Reverse Engineering
-
----
-
-# Featured Projects
-
-🚧 Currently building this portfolio.
-
-Upcoming repositories will include:
-
-### 💻 Full Stack
-
-- CRM System
-- ERP Modules
-- REST APIs
-- Authentication
-- Dashboard Systems
-
-### 📊 Data Engineering
-
-- ETL Pipelines
-- SQL Projects
-- BigQuery
-- Data Processing
-
-### ⚙ Automation
-
-- Python Automation
-- SAP Automation
-- Selenium Bots
-- Playwright Projects
-- Excel Automation
-
-### 🔧 Hardware Lab
-
-- Arduino
-- ESP32
-- Embedded Systems
-- Electronics Projects
 
 ---
 
