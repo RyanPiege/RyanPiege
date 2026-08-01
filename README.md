@@ -219,32 +219,36 @@ In my spare time, I enjoy learning and experimenting with:
 
 ---
 
-# GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</p>
 ---
 
 # Currently Learning
 
-- Software Architecture
-- Cloud Computing
-- DevOps Fundamentals
+- Artificial Intelligence Engineering
+- Large Language Model (LLM) Architecture
 - Distributed Systems
-- Embedded Programming
-- Design Patterns
+- Embedded Systems Programming
+- Software Design Patterns
 
 ---
 
