@@ -206,24 +206,19 @@ SAP Automation
 ✔ Embedded Hardware Projects
 ```
 
----
 # 📊 GitHub Analytics
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanPiege&show_icons=true&theme=tokyonight&hide_border=true" alt="Ryan's GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyanPiege&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPiege&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RyanPiege&theme=github-dark-blue&hide_border=true)
-
----
-
-# 🏆 GitHub Achievements
-
----
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RyanPiege&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=2&column=4)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RyanPiege&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -239,6 +234,6 @@ SAP Automation
 
 ---
 
-### 💡 "Software, Data and Hardware working together."
-
-</div>
+<p align="center">
+  <b>💡 "Software, Data and Hardware working together."</b>
+</p>
