@@ -208,32 +208,111 @@ SAP Automation
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanPiege&show_icons=true&theme=tokyonight&hide_border=true" alt="Ryan's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPiege&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RyanPiege&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
+
+
+
+<div align="center">
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RyanPiege&theme=github-dark-blue&hide_border=true"/>
+
+
+
+</div>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanPiege&theme=github-dark&hide_border=true"/>
+
+
+
+</div>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanPiege&theme=github_dark"/>
+
+
+
+</div>
+
+
+
+---
+
+
+
+# 🏆 GitHub Achievements
+
+
+
+<div align="center">
+
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=RyanPiege&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+
+
+
+</div>
+
+
+
+---
+
+
 
 # 🧠 Engineering Philosophy
 
+
+
 > Build software that solves problems.
+
 >
+
 > Design data pipelines that scale.
+
 >
+
 > Automate repetitive work.
+
 >
+
 > Create technology that delivers measurable business value.
+
+
 
 ---
 
-<p align="center">
-  <b>💡 "Software, Data and Hardware working together."</b>
-</p>
+
+
+<div align="center">
+
+
+
+## 💡 "Software, Data and Hardware working together."
+
+
+
+</div> 
+
