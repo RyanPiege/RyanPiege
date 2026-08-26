@@ -207,41 +207,6 @@ SAP Automation
 ```
 
 # 📊 GitHub Analytics
-
-
-
----
-
-
-
-<div align="center">
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RyanPiege&theme=github-dark-blue&hide_border=true"/>
-
-
-
-</div>
-
-
-
----
-
-
-
-<div align="center">
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanPiege&theme=github-dark&hide_border=true"/>
-
-
-
-</div>
-
-
-
 ---
 
 
