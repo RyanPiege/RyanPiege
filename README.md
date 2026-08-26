@@ -207,30 +207,12 @@ SAP Automation
 ```
 
 ---
-
 # 📊 GitHub Analytics
 
----
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RyanPiege&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanPiege&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanPiege&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RyanPiege&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPiege&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -240,11 +222,10 @@ SAP Automation
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RyanPiege&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RyanPiege&theme=tokyonight" alt="Wakatime status" error="remove" />
+<!-- Caso queira usar trophies via shields.io ou ícones nativos do GitHub -->
 
 </div>
-
----
 
 # 🧠 Engineering Philosophy
 
