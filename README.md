@@ -129,7 +129,7 @@ Data Workflows
 | Area                     | Technologies                                                          |
 | ------------------------ | --------------------------------------------------------------------- |
 | 💻 Software Engineering  | Python • PHP • JavaScript • REST APIs • MySQL • System Integration    |
-| 📊 Data Engineering      | Python • SQL • Apache Spark • ETL • ELT • BigQuery • Data Pipelines   |
+| 📊 Data Engineering      | Python • SQL • Apache Spark • ELT • BigQuery • Data Pipelines   |
 | 🧱 Analytics Engineering | dbt • Data Modeling • SQL • Data Transformation • Data Quality        |
 | 📈 Business Intelligence | Power BI • Power Query • DAX • KPI Monitoring • Analytics             |
 | ⚙ Process Automation     | Python • Selenium • Playwright • OpenPyXL • Power Automate • VBScript |
@@ -178,88 +178,6 @@ Data Workflows
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 
 </div>
-
----
-
-# 🏗️ Data Engineering Stack
-
-<div align="center">
-
-```text
-                    ┌─────────────────────┐
-                    │   Enterprise Data   │
-                    │ SAP • APIs • Files   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │     Python / ETL    │
-                    │    Data Ingestion    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   Apache Spark      │
-                    │ Distributed Compute │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      BigQuery       │
-                    │    Cloud Data       │
-                    │      Warehouse      │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │        dbt          │
-                    │ Transformation &    │
-                    │    Data Modeling     │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │    BI / Analytics   │
-                    │      Power BI       │
-                    └─────────────────────┘
-```
-
-</div>
-
----
-
-# 🐳 Development & Infrastructure
-
-I use **Docker** to create reproducible development environments and isolate data engineering workloads.
-
-Typical architecture:
-
-```text
-Python
-   │
-   ├── ETL / ELT
-   │
-   ├── APIs
-   │
-   └── Automation
-          │
-          ▼
-      Docker
-          │
-          ▼
-   Apache Spark
-          │
-          ▼
-      BigQuery
-          │
-          ▼
-        dbt
-          │
-          ▼
-   Analytics / BI
-```
-
----
 
 # 🚀 Featured Projects
 
