@@ -153,11 +153,21 @@ Data Workflows
 
 ## Data Engineering
 
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+<br>
 
-<br><br>
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="64"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="64"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dbt/FF694A" width="64"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" width="64"/>
+</p>
 
-### Apache Spark • dbt • BigQuery • SQL • ETL / ELT
+<br>
+
+### Apache Spark • dbt • BigQuery • SQL • ETL
 
 <br><br>
 
