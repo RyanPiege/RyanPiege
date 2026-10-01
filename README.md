@@ -1,5 +1,7 @@
 <!-- ===================================================== -->
+
 <!--                  RYAN LOBATO README                    -->
+
 <!-- ===================================================== -->
 
 <div align="center">
@@ -8,7 +10,7 @@
 
 # Software Engineer • Data Engineer • Process Automation
 
-### Building scalable software, enterprise systems and modern data platforms.
+### Building scalable software, data platforms and automation solutions.
 
 <p align="center">
 
@@ -26,11 +28,11 @@
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineering;Data+Engineering;Process+Automation;Industrial+Systems;Building+Solutions+That+Create+Business+Value"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineering;Data+Engineering;Apache+Spark;dbt+%26+Analytics+Engineering;Cloud+Data+Platforms;Process+Automation;Building+Solutions+That+Create+Business+Value"/>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=RyanPiege&style=for-the-badge&color=00C2FF)
+![](https://komarev.com/ghpvc/?username=RyanPiege\&style=for-the-badge\&color=00C2FF)
 
 </div>
 
@@ -38,13 +40,15 @@
 
 # 👋 About Me
 
-I'm a **Software Engineer** specialized in developing enterprise software, modern data platforms and automation solutions.
+I'm a **Software Engineer and Data Engineer** focused on building software, data platforms and automation solutions that solve real business problems.
 
-My work combines **Software Engineering**, **Data Engineering** and **Business Process Automation** to build scalable applications, integrate enterprise systems and transform data into strategic business assets.
+My work combines **Python, SQL, Software Engineering, Data Engineering and Process Automation**, with a growing focus on modern data architectures and cloud platforms.
 
-I enjoy working across the complete technology stack, from backend development and APIs to ETL pipelines, dashboards and enterprise platforms.
+I work across different layers of technology — from backend development, APIs and system integration to **ETL/ELT pipelines, data transformation, analytics and cloud data platforms**.
 
-Outside my professional career, I dedicate my time to studying **embedded systems, electronics, industrial hardware and high-performance computing**.
+I'm particularly interested in building reliable and scalable data workflows using technologies such as **Apache Spark, dbt, Google Cloud Platform, BigQuery and Docker**.
+
+Outside my professional career, I dedicate time to studying **embedded systems, electronics, industrial hardware and high-performance computing**.
 
 ---
 
@@ -58,13 +62,13 @@ Outside my professional career, I dedicate my time to studying **embedded system
 
 ## 💻
 
-### Software
+### Software Engineering
 
-Enterprise Applications
+Backend Development
 
 REST APIs
 
-Backend Development
+Enterprise Applications
 
 System Integration
 
@@ -76,17 +80,19 @@ CRM & ERP
 
 ## 📊
 
-### Data
+### Data Engineering
 
-ETL Pipelines
+ETL / ELT Pipelines
+
+Apache Spark
+
+dbt
 
 BigQuery
 
-SQL
-
 Data Modeling
 
-Business Intelligence
+Data Warehousing
 
 </td>
 
@@ -94,17 +100,19 @@ Business Intelligence
 
 ## ⚙
 
-### Automation
+### Automation & Cloud
 
-Python
+Python Automation
 
-Selenium
+Process Automation
 
-Playwright
+Docker
 
-Power Automate
+Google Cloud Platform
 
 SAP Automation
+
+Data Workflows
 
 </td>
 
@@ -118,15 +126,16 @@ SAP Automation
 
 <div align="center">
 
-| Area | Technologies |
-|------|--------------|
-| 💻 Software Engineering | PHP • JavaScript • REST APIs • MySQL • System Integration |
-| 📊 Data Engineering | ETL • SQL • BigQuery • Data Modeling • Data Warehousing |
-| 📈 Business Intelligence | Power BI • Power Query • DAX • KPI Monitoring • RCA |
-| ⚙ Process Automation | Python • Selenium • Playwright • OpenPyXL • VBScript |
-| ☁ Cloud | Google Cloud Platform • BigQuery |
-| 🏭 Enterprise Systems | SAP ERP • SharePoint • CRM • ERP |
-| 🔬 Hardware | Arduino • ESP32 • Raspberry Pi • PCB Design |
+| Area                     | Technologies                                                          |
+| ------------------------ | --------------------------------------------------------------------- |
+| 💻 Software Engineering  | Python • PHP • JavaScript • REST APIs • MySQL • System Integration    |
+| 📊 Data Engineering      | Python • SQL • Apache Spark • ETL • ELT • BigQuery • Data Pipelines   |
+| 🧱 Analytics Engineering | dbt • Data Modeling • SQL • Data Transformation • Data Quality        |
+| 📈 Business Intelligence | Power BI • Power Query • DAX • KPI Monitoring • Analytics             |
+| ⚙ Process Automation     | Python • Selenium • Playwright • OpenPyXL • Power Automate • VBScript |
+| ☁ Cloud & Infrastructure | Google Cloud Platform • BigQuery • Docker                             |
+| 🏭 Enterprise Systems    | SAP ERP • SharePoint • CRM • ERP                                      |
+| 🔬 Hardware & Embedded   | Arduino • ESP32 • Raspberry Pi • PCB Design                           |
 
 </div>
 
@@ -142,9 +151,25 @@ SAP Automation
 
 <br><br>
 
+## Data Engineering
+
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+
+<br><br>
+
+### Apache Spark • dbt • BigQuery • SQL • ETL / ELT
+
+<br><br>
+
+## Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github"/>
+
+<br><br>
+
 ## Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 <br><br>
 
@@ -155,16 +180,99 @@ SAP Automation
 </div>
 
 ---
+
+# 🏗️ Data Engineering Stack
+
+<div align="center">
+
+```text
+                    ┌─────────────────────┐
+                    │   Enterprise Data   │
+                    │ SAP • APIs • Files   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │     Python / ETL    │
+                    │    Data Ingestion    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   Apache Spark      │
+                    │ Distributed Compute │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      BigQuery       │
+                    │    Cloud Data       │
+                    │      Warehouse      │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │        dbt          │
+                    │ Transformation &    │
+                    │    Data Modeling     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    BI / Analytics   │
+                    │      Power BI       │
+                    └─────────────────────┘
+```
+
+</div>
+
+---
+
+# 🐳 Development & Infrastructure
+
+I use **Docker** to create reproducible development environments and isolate data engineering workloads.
+
+Typical architecture:
+
+```text
+Python
+   │
+   ├── ETL / ELT
+   │
+   ├── APIs
+   │
+   └── Automation
+          │
+          ▼
+      Docker
+          │
+          ▼
+   Apache Spark
+          │
+          ▼
+      BigQuery
+          │
+          ▼
+        dbt
+          │
+          ▼
+   Analytics / BI
+```
+
+---
+
 # 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏢 Enterprise CRM | Corporate management platform with CRM, ERP, dashboards and REST APIs. | PHP • MySQL • REST API |
-| 📊 ETL Pipeline | Automated SAP ERP data pipeline integrated with BigQuery and Power BI. | Python • BigQuery • ETL |
-| 🤖 Process Automation | Enterprise automation using Python, Selenium and Playwright. | Python • Selenium |
-| 🖥 VRX Platform | Personal hardware platform focused on embedded systems and HPC. | PCB • Embedded • IoT |
+| Project                      | Description                                                                              | Stack                           |
+| ---------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------- |
+| 🏢 Enterprise CRM            | Corporate management platform with CRM, ERP, dashboards and REST APIs.                   | PHP • MySQL • REST API          |
+| 📊 Data Engineering Pipeline | Automated enterprise data pipeline with ingestion, transformation and cloud analytics.   | Python • Spark • BigQuery • dbt |
+| ⚡ ETL Platform               | Automated SAP ERP data extraction and transformation pipeline.                           | Python • ETL • BigQuery         |
+| 🤖 Process Automation        | Enterprise automation workflows for repetitive operational processes.                    | Python • Selenium • Playwright  |
+| 🐳 Data Engineering Lab      | Containerized environment for experimentation with modern data engineering technologies. | Docker • Python • Spark • dbt   |
+| 🖥 VRX Platform              | Personal hardware platform focused on embedded systems and high-performance computing.   | PCB • Embedded • IoT            |
 
 </div>
 
@@ -174,13 +282,13 @@ SAP Automation
 
 <div align="center">
 
-| Software | Data | Hardware |
-|-----------|------|----------|
-| Enterprise Systems | Data Engineering | Embedded Systems |
-| REST APIs | ETL Pipelines | PCB Design |
-| Backend Development | BigQuery | Raspberry Pi |
-| System Integration | Business Intelligence | Electronics |
-| Software Architecture | Analytics | Industrial Automation |
+| Software Engineering  | Data Engineering | Infrastructure     |
+| --------------------- | ---------------- | ------------------ |
+| Backend Development   | Apache Spark     | Docker             |
+| REST APIs             | Data Pipelines   | Google Cloud       |
+| System Integration    | dbt              | Cloud Architecture |
+| Software Architecture | BigQuery         | Linux              |
+| Enterprise Systems    | Data Modeling    | DevOps             |
 
 </div>
 
@@ -189,11 +297,21 @@ SAP Automation
 # ⚡ Technical Highlights
 
 ```text
-✔ Enterprise Software Development
+✔ Software Engineering
 
 ✔ Data Engineering
 
-✔ Process Automation
+✔ Python Development
+
+✔ Apache Spark
+
+✔ dbt & Analytics Engineering
+
+✔ ETL / ELT Pipelines
+
+✔ BigQuery & Google Cloud
+
+✔ Docker & Containerization
 
 ✔ REST API Development
 
@@ -201,83 +319,51 @@ SAP Automation
 
 ✔ SAP ERP Integration
 
+✔ Process Automation
+
 ✔ Industrial Systems
 
 ✔ Embedded Hardware Projects
 ```
 
-# 📊 GitHub Analytics
 ---
 
-
+# 📊 GitHub Analytics
 
 <div align="center">
-
-
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanPiege&theme=github_dark"/>
 
-
-
 </div>
 
-
-
 ---
-
-
 
 # 🏆 GitHub Achievements
 
-
-
 <div align="center">
-
-
 
 <img src="https://github-profile-trophy.vercel.app/?username=RyanPiege&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
 
-
-
 </div>
 
-
-
 ---
-
-
 
 # 🧠 Engineering Philosophy
 
-
-
 > Build software that solves problems.
 
->
-
-> Design data pipelines that scale.
-
->
+> Design data platforms that scale.
 
 > Automate repetitive work.
 
->
+> Transform raw data into useful information.
 
 > Create technology that delivers measurable business value.
 
-
-
 ---
-
-
 
 <div align="center">
 
+## 💡 "Software, Data and Infrastructure working together."
 
-
-## 💡 "Software, Data and Hardware working together."
-
-
-
-</div> 
-
+</div>
