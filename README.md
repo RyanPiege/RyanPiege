@@ -9,7 +9,7 @@
 
 ### Software & Data Engineer · Process Automation
 
-**Building scalable data platforms, reliable integrations and automations that remove manual work.**
+**Building scalable data platforms, reliable integrations and automations.**
 
 <a href="https://linkedin.com/in/SEU-USUARIO-AQUI">
 <img src="https://img.shields.io/badge/LinkedIn-0B5FD9?style=for-the-badge&logo=linkedin&logoColor=white"/>
