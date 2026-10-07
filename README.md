@@ -27,7 +27,7 @@
 
 ---
 
-## 👋 About
+## About
 
 I build the layer where **software, data and business processes meet**: from backend and APIs to cloud analytics pipelines.
 
@@ -35,7 +35,7 @@ My focus is turning manual routines, legacy systems (ERP/SAP) and raw data into 
 
 ---
 
-## 🧭 What I Do
+## What I Do
 
 | 💻 Software & Integration | 📊 Data Engineering | ⚙️ Automation & Cloud |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ My focus is turning manual routines, legacy systems (ERP/SAP) and raw data into 
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
@@ -89,21 +89,13 @@ My focus is turning manual routines, legacy systems (ERP/SAP) and raw data into 
 
 ---
 
-## 🧱 How I Think About Pipelines
-
-```mermaid
-flowchart LR
-    A[SAP / ERP / CRM<br/>Legacy systems] -->|Python · APIs| B[Ingestion<br/>Docker]
-    B --> C[(BigQuery<br/>Raw layer)]
-    C -->|dbt| D[(Modeled layer<br/>Data quality)]
-    D --> E[Power BI<br/>KPIs & decisions]
-```
+## How I Think About Pipelines
 
 > Problem → technical challenge → architecture → result. Every project below follows this structure.
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | What it solves | Stack |
 | :--- | :--- | :--- |
@@ -112,9 +104,6 @@ flowchart LR
 | 🤖 **Process Automation** | Workflows that replace repetitive operational routines | Python · Selenium · Playwright |
 | 🐳 **Data Engineering Lab** | Containerized environment to test the modern data stack | Docker · Python · Spark · dbt |
 | 🏢 **Enterprise CRM** | Management platform with CRM, ERP, dashboards and REST APIs | PHP · MySQL · REST API |
-| 🖥️ **VRX Platform** | Personal hardware platform: embedded systems and HPC | PCB · Embedded · IoT |
-
-> 🔗 Links: adicione o link de cada repositório no nome do projeto.
 
 ---
 
