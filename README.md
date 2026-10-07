@@ -11,7 +11,7 @@
 
 **Building scalable data platforms, reliable integrations and automations.**
 
-<a href="https://linkedin.com/in/SEU-USUARIO-AQUI">
+<a href="https://linkedin.com/in/ryanpiege">
 <img src="https://img.shields.io/badge/LinkedIn-0B5FD9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:Ryanpiege@proton.me">
